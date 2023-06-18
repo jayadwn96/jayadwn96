@@ -1,13 +1,3 @@
-- 👋 Hi, I’m @jayadwn96
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-jayadwn96/jayadwn96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 Hello, I'm Jaya Dewangan! 👋
 
 A passionate and motivated individual with a strong desire to transition into the software development field. I bring a unique perspective, having spent the past 3 years as a teacher, and now I am eager to explore opportunities in the IT sector.
